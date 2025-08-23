@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Jason O'Neal 👋
 
-<!--
-**jason-allen-oneal/jason-allen-oneal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ Cybersecurity Student | 🧑‍💻 Developer | 🏕️ Outdoorsman
 
-Here are some ideas to get you started:
+Welcome to my GitHub! Here’s a bit about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Cybersecurity Student**  
+  Diving deep into ethical hacking, penetration testing, and digital defense. Always curious about the latest threats and how to stop them.
+
+- 🐍 **Languages:** Python, JavaScript, TypeScript  
+  Building tools, automations, and web services — with a focus on security and simplicity.
+
+- 🕵️‍♂️ **Projects:**  
+  - **pentest-agent**: Exploring automated penetration testing and agent-based security assessments.
+  - More coming soon!
+
+- 🤗 **Machine Learning Experiments:**  
+  Find me on Hugging Face: [jason-oneal](https://huggingface.co/jason-oneal)
+
+- 🌲 **Avid Outdoorsman:**  
+  When I’m not hacking or coding, you’ll catch me hiking, camping, or exploring nature.
+
+- 🔥 **Open to Collaborations & Whatever’s Next:**  
+  If it sounds interesting, I’m probably game. Reach out if you want to build, break, or brainstorm together!
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jason-allen-oneal&show_icons=true&theme=radical)
