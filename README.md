@@ -22,7 +22,3 @@ Welcome to my GitHub! Here’s a bit about me:
 
 - 🔥 **Open to Collaborations & Whatever’s Next:**  
   If it sounds interesting, I’m probably game. Reach out if you want to build, break, or brainstorm together!
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jason-allen-oneal&show_icons=true&theme=radical)
