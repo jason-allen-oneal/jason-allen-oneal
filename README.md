@@ -1,24 +1,23 @@
-# Hi, I'm Jason O'Neal 👋
+# Jason O'Neal
 
-## 🛡️ Cybersecurity Student | 🧑‍💻 Developer | 🏕️ Outdoorsman
+### 🏗️ Architecting Systems | 🔓 Securing Infrastructure
 
-Welcome to my GitHub! Here’s a bit about me:
+I operate at the intersection of **Application Development** and **Cybersecurity**. I don't just write code; I design systems with the network layer and security posture in mind.
 
-- 🎓 **Cybersecurity Student**  
-  Diving deep into ethical hacking, penetration testing, and digital defense. Always curious about the latest threats and how to stop them.
+**🚀 The "Build" Side (Full Stack):**
+Creating responsive, scalable applications using the modern web stack.
+* **Tech:** Next.js 15, TypeScript, Prisma, Socket.IO
+* **Highlight:** `dmgpt5e` (AI-driven Campaign Manager)
 
-- 🐍 **Languages:** Python, JavaScript, TypeScript  
-  Building tools, automations, and web services — with a focus on security and simplicity.
+**🛡️ The "Break" Side (Security):**
+Researching automated threat assessment and privacy infrastructure.
+* **Tech:** Python, Bash, Tor/I2P routing, Linux Automation
+* **Highlight:** `pentest-agent` & `OpSec-Tools`
 
-- 🕵️‍♂️ **Projects:**  
-  - **pentest-agent**: Exploring automated penetration testing and agent-based security assessments.
-  - More coming soon!
+**🎓 Credentials:**
+* B.Sc Cybersecurity Student (DeVry University)
+* Undergraduate Certificate in Networking
 
-- 🤗 **Machine Learning Experiments:**  
-  Find me on Hugging Face: [jason-oneal](https://huggingface.co/jason-oneal)
+**🌲 Offline:** Hiker, Camper, Guitarist.
 
-- 🌲 **Avid Outdoorsman:**  
-  When I’m not hacking or coding, you’ll catch me hiking, camping, or exploring nature.
-
-- 🔥 **Open to Collaborations & Whatever’s Next:**  
-  If it sounds interesting, I’m probably game. Reach out if you want to build, break, or brainstorm together!
+📫 **Let's Connect:** [jason.allen.oneal@gmail.com](mailto:jason.allen.oneal@gmail.com) | [Hugging Face](https://huggingface.co/jason-oneal)
