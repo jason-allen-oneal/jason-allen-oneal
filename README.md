@@ -16,7 +16,7 @@ Designing scalable full-stack applications with a focus on real-time interactivi
 - **Projects:** [bluedot-website](https://github.com/jason-allen-oneal/bluedot-website), [agent-quest](https://github.com/jason-allen-oneal/agent-quest)
 
 ### **🧠 AI & Automation**
-Developing local-first AI agent logic and specialized LLM tooling for gaming and operational oversight.
+Developing local-first AI agent logic and specialized LLM tooling for operational oversight and strategic development.
 - **Ecosystem:** [OpenClaw](https://github.com/jason-allen-oneal/openclaw-session-ui), AI-driven D&D campaign management.
 
 ---
@@ -28,5 +28,5 @@ Developing local-first AI agent logic and specialized LLM tooling for gaming and
 
 ---
 
-📫 **Connect:** [jason.allen.oneal@gmail.com](mailto:jason.allen.oneal@gmail.com) | [Hugging Face](https://huggingface.co/jason-oneal)
+📫 **Connect:** [jason.allen.oneal@gmail.com](mailto:jason.allen.oneal@gmail.com), [jason@bluedot.it.com](mailto:jason@bluedot.it.com) | [Hugging Face](https://huggingface.co/jason-oneal) | [BlueDot IT Website](https://bluedot.it.com)
 
