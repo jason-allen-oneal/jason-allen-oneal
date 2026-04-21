@@ -1,51 +1,24 @@
 # Jason O'Neal
-### **Full-Stack Developer | Security Researcher | Systems Architect**
+### BlueDot IT | Cybersecurity | Full-Stack Development | AI Integrations
 
-I bridge the gap between high-performance application development and defensive infrastructure. As the lead at **BlueDot IT**, I build resilient, automated systems that prioritize privacy and security by design.
+I build practical systems that stay secure, useful, and easy to maintain. BlueDot IT focuses on cybersecurity, software, and AI integrations that fit real work instead of adding more clutter.
 
----
+## What I work on
+- Cybersecurity and defensive systems
+- Full-stack development for real business workflows
+- AI integrations and automation that hold up in practice
 
 ## Flagship repos
-
-- **SignalGate** - High-accuracy model router and OpenAI-compatible gateway with cost accounting and metrics.
+- **DemonClaw** - Rust-native secure runtime for controlled execution, WASM sandboxing, approvals, scheduling, and tamper-evident logging
+  - https://github.com/jason-allen-oneal/DemonClaw
+- **SignalGate** - model routing gateway with cost accounting and metrics
   - https://github.com/jason-allen-oneal/SignalGate
-- **GhostMCP** - Security-focused MCP server for authorized red-team and defensive operations.
+- **GhostMCP** - security-focused MCP server for authorized defensive operations
   - https://github.com/jason-allen-oneal/GhostMCP
-- **ExploitRank** - Exploit intelligence engine: CVE ingestion, PoC discovery, and ranking.
+- **ExploitRank** - exploit intelligence engine for CVE ingestion and ranking
   - https://github.com/jason-allen-oneal/ExploitRank
-- **DarkPrompt** - Prompt security and adversarial testing utilities.
-  - https://github.com/jason-allen-oneal/DarkPrompt
 
----
-
-### **Security & Research**
-
-Specializing in automated threat assessment, red-team simulation frameworks, and privacy-preserving network protocols.
-
-- **Projects:** GhostMCP, ExploitRank, OpSec-Tools
-- **Focus:** Python automation, Linux hardening, defensive architecture, and reproducible security tooling.
-
-### **Application Development**
-
-Designing scalable full-stack applications with a focus on real-time interactivity and event-sourced architectures.
-
-- **Tech stack:** Next.js, TypeScript, Prisma, Socket.IO, Tailwind CSS
-- **Projects:** bluedot-website, agent-quest
-
-### **AI & Automation**
-
-Developing local-first AI agent logic and LLM tooling for operational oversight.
-
-- **Ecosystem:** OpenClaw, SignalGate
-
----
-
-### **Credentials**
-
-- **B.Sc. Cybersecurity** (DeVry University - In Progress)
-- **Undergraduate Certificate in Networking**
-- **24+ Years Experience** in Information Technology (est. 2002)
-
----
-
-📫 **Connect:** jason.allen.oneal@gmail.com, jason@bluedot.it.com | Hugging Face: https://huggingface.co/jason-oneal | BlueDot IT: https://bluedot.it.com
+## Connect
+- Website: https://bluedot.it.com
+- LinkedIn: https://www.linkedin.com/in/bluedotit/
+- Email: jason@bluedot.it.com
